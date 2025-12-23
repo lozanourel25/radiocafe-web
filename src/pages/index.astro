@@ -1,70 +1,75 @@
 ---
-import Layout from '../components/Layout.astro';
-import FeedbackForm from '../components/FeedbackForm.astro';
+import Layout from '../layouts/Layout.astro';
 ---
 
-<Layout title="Astro Toolbox">
-  <main>
-    <div class="header">
-      <div class="logo">
-        <img
-          src="https://user-images.githubusercontent.com/43764894/223557634-f62606c5-bdf9-476c-9264-0d3728189962.png"
-          alt="Netlify and Astro.js logos"
-        />
-      </div>
-    </div>
-    <div class="intro">
-      <p>
-        Hi 👋! This template gives you an
-        <a href="https://astro.build/">Astro</a> app with the scaffolding for
-        <a href="https://ntl.fyi/3upc4Qo">Netlify Functions</a>, <a
-          href="https://ntl.fyi/3bICRk6">Forms</a
-        >, and
-        <a href="https://ntl.fyi/3PcY8RH">Redirects</a>. Our aim was to give you
-        the code you would need to hit the ground running with a few fun
-        features.
-      </p>
+<Layout title="Café con Radio | Música y Recuerdos">
+	<main>
+		<h1>Bienvenidos a <span class="text-gradient">Café con Radio</span></h1>
+		
+		<section class="intro">
+			<p>
+				Esta es una cápsula del tiempo musical. Aquí compartimos las canciones que han marcado nuestras vidas, 
+				desde los clásicos de <strong>Adamo</strong> y <strong>Albert Hammond</strong>, hasta la fuerza de 
+				<strong>Mercedes Sosa</strong> y <strong>Silvio Rodríguez</strong>.
+			</p>
+		</section>
 
-      <p>
-        You can find the code for this project on GitHub at
-        <a href="https://github.com/netlify-templates/astro-toolbox"
-          >https://github.com/netlify-templates/astro-toolbox</a
-        >! Happy coding!
-      </p>
-    </div>
-    <FeedbackForm />
-    <a class="jokes-link" href="/api/joke">
-      <h3>Click here for function-loaded jokes!</h3>
-    </a>
-  </main>
+		<section class="recuerdos">
+			<h2>Nuestra Identidad Musical</h2>
+			<ul>
+				<li>
+					<strong>Clásicos Inolvidables:</strong> Disfruta de la magia de <strong>Queen</strong>, <strong>Soda Stereo</strong> 
+					y el pop eterno de <strong>a-Ha</strong>.
+				</li>
+				<li>
+					<strong>Momentos de siempre:</strong> La compañía perfecta con las voces de <strong>Joan Baez</strong>, 
+					<strong>Bob Dylan</strong> y la armonía de los <strong>Bee Gees</strong>.
+				</li>
+			</ul>
+		</section>
+
+		<p class="instrucciones">
+			Ponte cómodo, sírvete un café y deja que la música te traiga los mejores recuerdos.
+		</p>
+	</main>
 </Layout>
 
 <style>
-  .logo img {
-    padding: 30px 0;
-    width: 100%;
-  }
-
-  main {
-    padding: 2rem 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin: 0 auto;
-    max-width: 60ch;
-    align-items: center;
-  }
-
-  footer {
-    width: 100%;
-    height: 100px;
-    border-top: 1px solid #eaeaea;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  footer img {
-    width: 20px;
-  }
+	main {
+		margin: auto;
+		padding: 1.5rem;
+		max-width: 80ch;
+		line-height: 1.6;
+		color: #fff;
+	}
+	h1 {
+		font-size: 3rem;
+		font-weight: 800;
+		margin: 0;
+		text-align: center;
+	}
+	.text-gradient {
+		background-image: linear-gradient(45deg, #f39c12, #d35400);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		background-size: 400%;
+		background-position: 0%;
+	}
+	.intro {
+		font-size: 1.2rem;
+		margin: 2rem 0;
+		text-align: center;
+	}
+	.recuerdos {
+		background: #23262d;
+		padding: 1.5rem;
+		border-radius: 12px;
+		border: 1px solid #444;
+	}
+	.instrucciones {
+		margin-top: 2rem;
+		font-style: italic;
+		text-align: center;
+		color: #ccc;
+	}
 </style>
